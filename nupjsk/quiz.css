@@ -1,0 +1,10 @@
+@charset"UTF-8";
+.quiz_comment{
+  color: rgb(134,145,152);
+}
+.answer{
+  color: rgb(134,145,152);
+}
+input:checked + label {
+  color: rgb(255,255,255);
+}
