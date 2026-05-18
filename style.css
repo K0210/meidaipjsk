@@ -56,3 +56,6 @@ footer　{
 .quiz{
 	margin-bottom: 3rem;
 }
+li{
+	list-style-position: inside;
+}
